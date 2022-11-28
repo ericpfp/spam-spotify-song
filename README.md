@@ -26,4 +26,4 @@ this tutorial relies on you already having [nodejs](https://nodejs.org/en/) inst
 
 ## notes
 
-spotify's ratelimits are kinda hefty so youll have to wait a long time if u get rate limited, but adding 1k songs should be ez and sorta fast
+if u get a lot of failed requests then try to [create another API token](https://developer.spotify.com/console/post-playlist-tracks/) and put it in your `.env` file.
